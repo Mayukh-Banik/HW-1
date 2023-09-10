@@ -3,5 +3,7 @@
 **Remember to list your contribution in the sections shown below before the due date.**
 
 ## Team Member 1 contribution
+Mayukh Banik
 
 ## Team Member 2 contribution
+Ethan Yen
